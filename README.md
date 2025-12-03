@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m in my third year of Computer Science at Valrose University, <br>working on Java games, cryptology, automata, and grammars.<br>
+I’m in my third year of Computer Science at Valrose University. <br>working on Java games, cryptology, automata, and grammars.<br>
 
 
 ## 🌐 Socials:
