@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m in my third year of Computer Science at Valrose University. <br>Working on Java games, cryptology, automata, and grammars.<br>
+I’m in my third year of Computer Science at Valrose University. <br>Working on Compiler, cryptology,Website , automaton and grammars.<br>
 
 
 ## 🌐 Socials:
@@ -16,3 +16,4 @@ I’m in my third year of Computer Science at Valrose University. <br>Working on
 [![](https://visitcount.itsvg.in/api?id=Louiscieb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
